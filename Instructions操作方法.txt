@@ -1,15 +1,6 @@
-1¡¢ÏÂÔØÆ÷½ÓUSBÏßµ½µçÄÔUSB¿Ú£¬ºìµÆÉÁË¸£¬µÈ´ı¼¸Ãë£¬Ê¶±ğÎªUÅÌÉè±¸£¬´ò¿ªÎÒµÄµçÄÔ£¬¿ÉÒÔ·¢ÏÖĞÂµÄÅÌ·û¡°STM32 USB¡±¡£
-2¡¢ÕÒµ½ÎÄ¼şÃûÎª¡°Patch103.app¡±µÄÎÄ¼ş£¬ÍÏµ½¡°STM32 USB¡±Õâ¸öUÅÌ£¬»òÕß´ò¿ª¸´ÖÆµ½ÅÌÀïÃæ¡£
-3¡¢ÖØĞÂÉÏµçÏÂÔØÆ÷£¬¿ÉÒÔ·¢ÏÖĞÂµÄÉè±¸¡£
-
-ÎÂÜ°ÌáÊ¾£ºÈí¼ş½ö¹©Ñ§Ï°ºÍ¼¼Êõ½»Á÷£¬ÎğÓÃÓÚÉÌÒµ¼°·Ç·¨ÓÃÍ¾£¬·ñÔò²úÉúµÄ·¨ÂÉ¼°Ïà¹ØÎÊÌâÔğÈÎÓÉÊ¹ÓÃÈË×ÔĞĞ¸ºÔğ£¡
-
-1. The downloader connects the USB cable to the USB port of the computer, the red light flashes, waits for a few seconds, recognizes it as a USB device, opens my computer, and finds the new drive letter "STM32 USB".
-
-2. Find the file named "patch103. App", drag it to the USB flash drive "STM32 USB", or open and copy it to the USB flash drive.
-
-3. Power up the downloader again to discover new devices.
-
-
-
-Warm tip: the software is only for learning and technical exchange, not for commercial and illegal use, otherwise the user shall be responsible for the legal and related problems!
+1ã€ä¸‹è½½å™¨æ¥USBçº¿åˆ°ç”µè„‘USBå£ï¼Œçº¢ç¯é—ªçƒï¼Œç­‰å¾…å‡ ç§’ï¼Œè¯†åˆ«ä¸ºUç›˜è®¾å¤‡ï¼Œæ‰“å¼€æˆ‘çš„ç”µè„‘ï¼Œå¯ä»¥å‘ç°æ–°çš„ç›˜ç¬¦â€œSTM32 USBâ€ã€‚
+2ã€ç¦æ­¢å°†æ–‡ä»¶åä¸ºâ€œPatch103.appâ€çš„æ–‡ä»¶ï¼Œæ‹–åˆ°â€œSTM32 USBâ€è¿™ä¸ªUç›˜ï¼Œæˆ–è€…æ‰“å¼€å¤åˆ¶åˆ°ç›˜é‡Œé¢ï¼Œå¦åˆ™è¯¥è®¾å¤‡å°†ä¼šå˜ä¸ºä¸€ä¸ªjlink ä¸‹è½½å™¨ã€æ‚¨å°†å¯èƒ½é¢ä¸´æ³•å¾‹è´£ä»»ã€‚
+æ¸©é¦¨æç¤ºï¼šè½¯ä»¶ä»…ä¾›å­¦ä¹ å’ŒæŠ€æœ¯äº¤æµï¼Œå‹¿ç”¨äºå•†ä¸šåŠéæ³•ç”¨é€”ï¼Œå¦åˆ™äº§ç”Ÿçš„æ³•å¾‹åŠç›¸å…³é—®é¢˜è´£ä»»ç”±ä½¿ç”¨äººè‡ªè¡Œè´Ÿè´£ï¼
+1ã€Download USB cable to the computer USB Port, red light flashing, wait a few seconds, identify as a u disk device, open my computer, you can find a new disk symbol "STM32 USB. ". 
+2. Do not drag a file named "PATCH103.APP" onto a USB stick called "STM32 USB" or open it and copy it to a disk, otherwise the device will become a jlink download and you will be liable. 
+TIPS: The software for learning and technical exchanges only, not for commercial and illegal use, otherwise the legal and related issues arising from the user's own responsibility!
